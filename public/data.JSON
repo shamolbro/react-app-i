@@ -1,0 +1,109 @@
+[{
+        "id": 12,
+        "name": "Shamol Murmu",
+        "age": 25,
+        "img": "https://images-gallary.netlify.app/shamol.png",
+        "post": "Mobile App Developer",
+        "address": "Syllhet",
+        "salary": "85000"
+    },
+    {
+        "id": 2,
+        "name": "SK Firoz Rana",
+        "age": 22,
+        "img": "https://images-gallary.netlify.app/firoz.png",
+        "post": "Font-end Developer",
+        "address": "Rajshahi",
+        "salary": "60000"
+    },
+    {
+        "id": 3,
+        "name": "Dipto Das",
+        "age": 25,
+        "img": "https://images-gallary.netlify.app/dipto.png",
+        "post": "UX/Ui Designer",
+        "address": "Dhaka",
+        "salary": "52000"
+    },
+    {
+        "id": 4,
+        "name": "Labib Hasan Bappy",
+        "age": 22,
+        "img": "https://images-gallary.netlify.app/labib.png",
+        "post": "Digital Marketer",
+        "address": "Khulna",
+        "salary": "58000"
+    },
+    {
+        "id": 5,
+        "name": "Md. Mehedi Hasan",
+        "age": 28,
+        "img": "https://images-gallary.netlify.app/mehedi.png",
+        "post": "Back-end Developer",
+        "address": "Kustia",
+        "salary": "70000"
+    },
+    {
+        "id": 6,
+        "name": "Nazmul Houda",
+        "age": 23,
+        "img": "https://images-gallary.netlify.app/Nazmul.png",
+        "post": "Full-Stack Web Developer",
+        "address": "Naogaon",
+        "salary": "80000"
+    },
+    {
+        "id": 7,
+        "name": "Rashidul Korim",
+        "age": 29,
+        "img": "https://images-gallary.netlify.app/rashidul.png",
+        "post": "SEO Specialist",
+        "address": "Dhaka",
+        "salary": "85000"
+    },
+    {
+        "id": 8,
+        "name": "Hasan Nomaam",
+        "age": 27,
+        "img": "https://images-gallary.netlify.app/nomaan.png",
+        "post": "Web Developer",
+        "address": "Cox's Bazar",
+        "salary": "55000"
+    },
+    {
+        "id": 9,
+        "name": "Md. Sojib",
+        "age": 22,
+        "img": "https://images-gallary.netlify.app/sojib.png",
+        "post": "Wordpress Developer",
+        "address": "Comilla",
+        "salary": "63000"
+    },
+    {
+        "id": 10,
+        "name": "Subroto",
+        "age": 29,
+        "img": "https://images-gallary.netlify.app/subroto.png",
+        "post": "Project Manager",
+        "address": "Pabna",
+        "salary": "65000"
+    },
+    {
+        "id": 11,
+        "name": "Zubair Ahmed",
+        "age": 23,
+        "img": "https://images-gallary.netlify.app/zubair.png",
+        "post": "Full-Stack Developer",
+        "address": "Rajshahi",
+        "salary": "75000"
+    },
+    {
+        "id": 12,
+        "name": "Shamol Murmu",
+        "age": 25,
+        "img": "https://images-gallary.netlify.app/shamol.png",
+        "post": "Mobile App Developer",
+        "address": "Syllhet",
+        "salary": "85000"
+    }
+]
